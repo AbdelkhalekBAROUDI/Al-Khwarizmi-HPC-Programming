@@ -58,7 +58,7 @@ end do
 
 - Expected output (Not necessary the same result):
 
-![](../data/mxm_block_cputime.png)
+![](https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/2fa38aff8b080a8013433abbbd0b4c79cc042956/day01/assignments/Block_cputime.png)
 
 ![](../data/mxm_block_bandwidth.png)
 
