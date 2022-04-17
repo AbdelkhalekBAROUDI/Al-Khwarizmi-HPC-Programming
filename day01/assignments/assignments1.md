@@ -14,7 +14,7 @@ end do
 
 - Expected output (Not necessary the same result):
 
-![](day01/assignments/Stride_cputime.png)
+![](https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/caa2c79594c44f7f66e27b25d5012333b94aa509/day01/assignments/Stride_cputime.png)
 ![](../data/strides_bandwidth.png)
 
 
