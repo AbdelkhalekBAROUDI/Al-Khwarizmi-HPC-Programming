@@ -13,11 +13,17 @@ end do
 - What is the conclusion?
 
 - Expected output (Not necessary the same result):
+<p align="center">
+  <img src="https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/caa2c79594c44f7f66e27b25d5012333b94aa509/day01/assignments/Stride_cputime.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
-![](https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/caa2c79594c44f7f66e27b25d5012333b94aa509/day01/assignments/Stride_cputime.png)
 
 
-![](https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/8edc4ad637906d80b571746a576d17f7314df8c7/day01/assignments/Stride_bandwidth.png)
+
+<p align="center">
+  <img src="https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/8edc4ad637906d80b571746a576d17f7314df8c7/day01/assignments/Stride_bandwidth.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 
 ### Exercise 2:
@@ -58,7 +64,11 @@ end do
 
 - Expected output (Not necessary the same result):
 
-![](https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/2fa38aff8b080a8013433abbbd0b4c79cc042956/day01/assignments/Block_cputime.png)
+<p align="center">
+  <img src="https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/2fa38aff8b080a8013433abbbd0b4c79cc042956/day01/assignments/Block_cputime.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
-![](../data/mxm_block_bandwidth.png)
 
+<p align="center">
+  <img src="https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/b931be91e72760dca7b1016f606ca7f6e776738a/day01/assignments/Block_bandwidth.png?raw=true" alt="Sublime's custom image"/>
+</p>
