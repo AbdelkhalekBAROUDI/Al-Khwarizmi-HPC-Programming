@@ -14,7 +14,7 @@ end do
 
 - Expected output (Not necessary the same result):
 
-![](../data/strides_cputime.png)
+![](../data/Stride_cputime.png)
 
 ![](../data/strides_bandwidth.png)
 
