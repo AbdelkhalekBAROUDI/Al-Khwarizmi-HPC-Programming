@@ -15,7 +15,9 @@ end do
 - Expected output (Not necessary the same result):
 
 ![](https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/caa2c79594c44f7f66e27b25d5012333b94aa509/day01/assignments/Stride_cputime.png)
-![](../data/strides_bandwidth.png)
+
+
+![](https://github.com/AbdelkhalekBAROUDI/Al-Khwarizmi-HPC-Programming/blob/8edc4ad637906d80b571746a576d17f7314df8c7/day01/assignments/Stride_bandwidth.png)
 
 
 ### Exercise 2:
